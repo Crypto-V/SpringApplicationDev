@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-mvc-demo/WebContent/WEB-INF/view/student-confirmation&apos; to &apos;student-confirmation.jsp&apos;" description="Rename resource &apos;student-confirmation&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/view/student-confirmation" name="student-confirmation.jsp" stamp="1676687688588" updateReferences="true"/>
+</session>

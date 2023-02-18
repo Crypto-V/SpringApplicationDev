@@ -1,0 +1,5 @@
+package com.vas2code.springdemo;
+
+public class MyLoggerConfig {
+
+}
