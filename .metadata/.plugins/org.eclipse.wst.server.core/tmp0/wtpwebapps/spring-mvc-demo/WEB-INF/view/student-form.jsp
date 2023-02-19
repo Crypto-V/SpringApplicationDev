@@ -26,11 +26,46 @@ First name: <form:input path="firstName" />
 Last name: <form:input path="lastName" />
 		<br>
 		<br>
+		
+		Country:
+		
+		<form:select path="country">
+
+			<form:options items = "${student.countryOptions}" />
+			
+
+		</form:select>
+
+		<br>
+		<br>
+		
+		Favorite Language:
+		
+		Java <form:radiobutton path="favoriteLanguage" value="Java"/>
+		C# <form:radiobutton path="favoriteLanguage" value="C#"/>
+		PHP <form:radiobutton path="favoriteLanguage" value="PHP"/>
+		Ruby <form:radiobutton path="favoriteLanguage" value="Ruby"/>
+		
+		<br>
+		<br>
+		
+		Favorite OS:
+		
+		Linux <form:checkbox path="operatingSystems" value="Linux"/>
+		MAC <form:checkbox path="operatingSystems" value="MAC"/>
+		MS Windows <form:checkbox path="operatingSystems" value="MS Windows"/>
+		
+		<br>
+		<br>
 
 		<input type="submit" value="Submit" />
 
 
 	</form:form>
+
+
+
+
 
 
 </body>

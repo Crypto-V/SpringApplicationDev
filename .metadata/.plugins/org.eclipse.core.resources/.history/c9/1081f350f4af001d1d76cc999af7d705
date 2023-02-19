@@ -1,0 +1,5 @@
+package com.vas2code.springdemo.mvc;
+
+public class CustomerController {
+
+}

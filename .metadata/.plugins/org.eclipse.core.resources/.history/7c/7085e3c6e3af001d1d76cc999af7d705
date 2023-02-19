@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+<tittle>Student Confirmation !</tittle>
+
+</head>
+
+<body>
+
+
+The student is confirmed!!!!
+
+${student.firstName}
+<br>
+${student.lastName}
+
+<br><br>
+
+Country: ${student.countryOptions}
+
+
+
+
+</body>
+
+</html>
