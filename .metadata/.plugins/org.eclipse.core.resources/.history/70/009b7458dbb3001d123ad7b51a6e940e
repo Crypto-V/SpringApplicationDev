@@ -1,0 +1,24 @@
+package com.vas2code.springdemo.mvc;
+
+import java.lang.annotation.Annotation;
+
+public class SpecificCourseCode implements CourseCode{
+
+	@Override
+	public Class<? extends Annotation> annotationType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String value() {
+		return "TOPS";
+	}
+
+	@Override
+	public String message() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

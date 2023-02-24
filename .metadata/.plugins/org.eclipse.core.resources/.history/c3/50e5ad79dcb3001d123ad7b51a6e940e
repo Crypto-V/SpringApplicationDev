@@ -1,0 +1,9 @@
+package com.vas2code.springdemo.mvc;
+
+public @interface CourseCode {
+
+	String value();
+
+	String message();
+
+}

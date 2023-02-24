@@ -1,0 +1,16 @@
+127.0.0.1 - - [23/Feb/2023:23:47:05 +0000] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:47:06 +0000] "GET /spring-mvc-demo/ HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:47:06 +0000] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:47:13 +0000] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 771
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:47:32 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 867
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:47:39 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 869
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:47:43 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 224
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:56:47 +0000] "GET /spring-mvc-demo HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:56:48 +0000] "GET /spring-mvc-demo/ HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:56:51 +0000] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 882
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:57:13 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 1055
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:57:49 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 984
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:57:50 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 984
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:57:53 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 984
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:57:55 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 984
+0:0:0:0:0:0:0:1 - - [23/Feb/2023:23:58:02 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 258

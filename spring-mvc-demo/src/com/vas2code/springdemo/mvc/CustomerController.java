@@ -24,7 +24,6 @@ public class CustomerController {
 
 		dataBinder.registerCustomEditor(String.class, stringTrimmerEditor);
 	}
-	
 
 	@RequestMapping("/showForm")
 	public String showForm(Model theModel) {
@@ -34,9 +33,12 @@ public class CustomerController {
 	}
 
 	@RequestMapping("/processForm")
-	public String processForm(@Valid @ModelAttribute("customer") Customer theCustomer, BindingResult theBindingResult) {
-
-		System.out.println("Last name: |" + theCustomer.getLastName() + "|");
+	public String processForm(@Valid @ModelAttribute("customer") Customer theCustomer,
+								BindingResult theBindingResult) {
+		
+		System.out.println("Biding Result "+theBindingResult);
+		
+		System.out.println("\n\n\n\n");
 		if (theBindingResult.hasErrors())
 			return "customer-form";
 
