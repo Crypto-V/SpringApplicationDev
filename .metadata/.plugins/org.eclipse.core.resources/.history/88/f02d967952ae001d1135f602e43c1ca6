@@ -1,5 +1,0 @@
-package com.vas2code.springdemo;
-
-public @interface PostConstruct {
-
-}

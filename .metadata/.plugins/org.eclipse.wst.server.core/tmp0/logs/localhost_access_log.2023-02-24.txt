@@ -20,3 +20,11 @@
 0:0:0:0:0:0:0:1 - - [24/Feb/2023:00:28:03 +0000] "GET /spring-mvc-demo/ HTTP/1.1" 200 316
 0:0:0:0:0:0:0:1 - - [24/Feb/2023:00:28:04 +0000] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 992
 0:0:0:0:0:0:0:1 - - [24/Feb/2023:00:28:12 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 1159
+127.0.0.1 - - [24/Feb/2023:01:07:07 +0000] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:01:07:08 +0000] "GET /spring-mvc-demo/ HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:01:07:14 +0000] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 992
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:01:07:22 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 1169
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:01:07:37 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:01:09:51 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 1229
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:01:10:00 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 1163
+0:0:0:0:0:0:0:1 - - [24/Feb/2023:01:10:09 +0000] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 294

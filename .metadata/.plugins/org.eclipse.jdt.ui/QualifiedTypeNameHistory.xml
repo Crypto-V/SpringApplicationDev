@@ -20,4 +20,15 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.WebDataBinder"/>
     <fullyQualifiedTypeName name="org.springframework.beans.propertyeditors.StringTrimmerEditor"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.InitBinder"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Min"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Max"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Pattern"/>
+    <fullyQualifiedTypeName name="javax.validation.Constraint"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="javax.validation.Payload"/>
+    <fullyQualifiedTypeName name="javax.validation.ConstraintValidator"/>
+    <fullyQualifiedTypeName name="com.vas2code.springdemo.mvc.validation.CourseCode"/>
 </qualifiedTypeNameHistroy>
