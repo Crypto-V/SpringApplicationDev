@@ -1,0 +1,5 @@
+package com.vas2code.hibernate.demo.entity;
+
+public class Student {
+
+}
