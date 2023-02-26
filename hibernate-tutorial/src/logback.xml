@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  This config file is meant to track and debug the errors, remove comment to activate.-->
 <configuration>
  
     <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
