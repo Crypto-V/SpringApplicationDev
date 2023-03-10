@@ -1,9 +1,0 @@
-package com.vas2code.springdemo.mvc;
-
-public @interface CourseCode {
-
-	public String value() default "LUV";
-
-	public String message() default "must start with LUV";
-
-}

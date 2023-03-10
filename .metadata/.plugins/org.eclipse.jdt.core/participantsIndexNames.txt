@@ -1,3 +1,7 @@
 INDEX VERSION 1.131
 C:\Users\verej\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237508677.index
 \spring-mvc-demo\src
+C:\Users\verej\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4261569207.index
+\web-customer-tracker\src
+C:\Users\verej\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\185871768.index
+\web-customer-tracker\src
