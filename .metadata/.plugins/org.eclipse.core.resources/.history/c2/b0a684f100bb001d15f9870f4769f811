@@ -1,0 +1,36 @@
+<!DOCTYPE>
+
+<html>
+<head>
+<title>This is the Add Page!!</title>
+<link href="../resources/css/add-customer-style.css" rel="stylesheet"
+	type="text/css">
+<link href="../resources/css/style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+
+	customer form ... placeholder
+
+
+	<div id="wrapper">
+		<div id="header">
+			<h2>CRM - Customer Relationship Manager</h2>
+		</div>
+	</div>
+
+	<div id="container">
+		<h3>Save Customer</h3>
+
+		<form:form action="saveCustomer" modelAttribute="customer"
+			method="POST">
+
+		</form:form>
+	</div>
+
+
+
+</body>
+</html>
